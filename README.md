@@ -2,7 +2,7 @@
 
 Resources for ML & DL
 
-## Repositories
+## 라이브러리 & 프레임워크
 
 [프로그래밍 언어별 딥러닝 라이브러리 정리: Team AI Korea](https://aikorea.org/blog/dl-libraries/)
 
