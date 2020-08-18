@@ -14,4 +14,6 @@ https://github.com/teddylee777/machine-learning
 
 [머신러닝 공부 관련 자료](https://velog.io/@han811/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B3%B5%EB%B6%80-%EA%B4%80%EB%A0%A8-%EC%9E%90%EB%A3%8C) https://velog.io/@han811/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B3%B5%EB%B6%80-%EA%B4%80%EB%A0%A8-%EC%9E%90%EB%A3%8C
 
+https://sites.google.com/site/aiwithprogramming/home
+
 
