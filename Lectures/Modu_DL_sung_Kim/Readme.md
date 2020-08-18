@@ -4,6 +4,8 @@
 
 https://hunkim.github.io/ml/
 
+https://www.youtube.com/user/hunkims/playlists
+
 https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
 
 
