@@ -2,6 +2,27 @@
 
 Resources for ML & DL
 
+## 단체
+
+* Keras Korea: https://www.facebook.com/groups/KerasKorea/
+* 케글코리아: https://www.facebook.com/groups/KaggleKoreaOpenGroup/
+* RL korea: https://www.facebook.com/groups/ReinforcementLearningKR/
+
+## 논문
+
+* https://paperswithcode.com/
+
+## 강의 youtube
+
+* 김태영 딥러닝 입문에서 활용까지(Keras)
+  - https://www.youtube.com/playlist?list=PL9mhQYIlKEheoq-M4EifTMPNWMw7poclK
+  - https://tykimos.github.io/about/
+  - 이메일: tykim@aifactory.page
+  
+* PyTorch for Deep Learning - Full Course / Tutorial
+  - https://www.youtube.com/watch?v=GIsg-ZUy0MY
+
+
 ## 라이브러리 & 프레임워크
 
 [프로그래밍 언어별 딥러닝 라이브러리 정리: Team AI Korea(2015)](https://aikorea.org/blog/dl-libraries/)
