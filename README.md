@@ -8,7 +8,16 @@ Resources for ML & DL
 * 케글코리아: https://www.facebook.com/groups/KaggleKoreaOpenGroup/
 * RL korea: https://www.facebook.com/groups/ReinforcementLearningKR/
 
-## 논문
+* AI Community List:   https://tykimos.github.io/community/
+
+## Blog, Web pages
+
+### Keras
+
+* 김태영: https://tykimos.github.io/lecture/
+
+
+## 논문site
 
 * https://paperswithcode.com/
 
