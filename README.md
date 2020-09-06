@@ -16,6 +16,20 @@ Resources for ML & DL
 
 * 김태영: https://tykimos.github.io/lecture/
 
+## Learning web sites
+
+### Keras
+
+* https://ebbnflow.tistory.com/118?category=738689
+* https://www.tensorflow.org/tutorials/keras/classification?hl=ko
+* https://tykimos.github.io/lecture/
+* 
+
+### 기초
+
+* https://sacko.tistory.com/10
+*
+
 
 ## 논문site
 
