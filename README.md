@@ -33,6 +33,12 @@ Resources for ML & DL
 ### python 관련
 
 * 데이터사이언스 스쿨: https://datascienceschool.net/
+  - Git: https://github.com/datascienceschool?language=jupyter+notebook
+  - https://github.com/datascienceschool
+* Keggle: https://www.kaggle.com/ - https://www.kaggle.com/c/titanic
+* https://www.tutorialspoint.com/index.htm
+  - Python lib. 모든 것 정리됨
+  - Look at Python Tech.
 
 
 ## 논문site
