@@ -30,6 +30,10 @@ Resources for ML & DL
 * https://sacko.tistory.com/10
 *
 
+### python 관련
+
+* 데이터사이언스 스쿨: https://datascienceschool.net/
+
 
 ## 논문site
 
