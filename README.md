@@ -32,6 +32,8 @@ Resources for ML & DL
 
 ### python 관련
 
+* 파이썬 기본 공부에 좋은
+  - https://www.w3schools.com/  : 완전 쌩기초를 위한
 * 데이터사이언스 스쿨: https://datascienceschool.net/
   - Git: https://github.com/datascienceschool?language=jupyter+notebook
   - https://github.com/datascienceschool
@@ -55,6 +57,10 @@ Resources for ML & DL
   
 * PyTorch for Deep Learning - Full Course / Tutorial
   - https://www.youtube.com/watch?v=GIsg-ZUy0MY
+  
+* 머신러닝 관련 개념 정리에 좋은 site
+  - https://www.inflearn.com/course/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%A1%A0-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%8B%A4%EC%8A%B5
+  
 
 
 ## 라이브러리 & 프레임워크
