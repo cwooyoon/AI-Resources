@@ -44,7 +44,10 @@ Resources for ML & DL
   - python3 -> numpy -> (scipy) -> pandas -> matplotlib -> seaborn -> mr -> ai 순서 공부
 * Matplotlib
   - https://matplotlib.org/
-  
+* Seaborn
+  - https://seaborn.pydata.org/
+* Plotly
+  - https://plotly.com/python/
 
 ## 논문site
 
