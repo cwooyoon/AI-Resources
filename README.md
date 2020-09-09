@@ -52,6 +52,10 @@ Resources for ML & DL
   - https://blog.itpaper.co.kr/python-mpg%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%8B%A4%EC%8A%B5/
   - https://blog.itpaper.co.kr/
   
+## Data
+
+* 한국복지패널: https://www.koweps.re.kr:442/data/survey/list.do
+
 
 ## 논문site
 
