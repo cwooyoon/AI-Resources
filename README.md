@@ -25,12 +25,19 @@ Resources for ML & DL
 * https://tykimos.github.io/lecture/
 * 
 
-### 기초
+## Machine Learning
+
+### Scikit-learn
+
+* https://scikit-learn.org/stable/
+
+
+## 기초
 
 * https://sacko.tistory.com/10
 *
 
-### python 관련
+## python 관련
 
 * 파이썬 기본 공부에 좋은
   - https://www.w3schools.com/  : 완전 쌩기초를 위한
