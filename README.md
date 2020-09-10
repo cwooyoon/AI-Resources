@@ -31,6 +31,17 @@ Resources for ML & DL
 
 * https://scikit-learn.org/stable/
 
+### ML Books
+
+* Machine Learning in Action: Manning  https://www.manning.com/books/machine-learning-in-action
+  - https://doongkibangki.tistory.com/15
+  - https://fermatslasttheorem.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%9D%B8-%EC%95%A1%EC%85%98-%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-%EA%B8%B0%EC%B4%88-1
+  - https://kkn1220.tistory.com/136
+  
+  
+* 초보자에게 유용한 기계학습 서적
+  - https://www.tableau.com/ko-kr/learn/articles/books-about-machine-learning
+
 
 ## 기초
 
@@ -58,6 +69,8 @@ Resources for ML & DL
 * dataScence
   - https://blog.itpaper.co.kr/python-mpg%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%8B%A4%EC%8A%B5/
   - https://blog.itpaper.co.kr/
+* Misc 
+  - https://blog.naver.com/choco_9966/221209925983
   
 ## Data
 
@@ -76,6 +89,12 @@ Resources for ML & DL
 
 * https://paperswithcode.com/
 
+### 논문
+
+* 자동기계학습 기술동향: https://ettrends.etri.re.kr/ettrends/178/0905178004/34-4_32-42.pdf
+* Deep Reinforcement Learning with Double Q-learning 논문 설명: https://mangkyu.tistory.com/66
+
+
 ## 강의 youtube
 
 * 김태영 딥러닝 입문에서 활용까지(Keras)
@@ -88,6 +107,9 @@ Resources for ML & DL
   
 * 머신러닝 관련 개념 정리에 좋은 site
   - https://www.inflearn.com/course/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%A1%A0-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%8B%A4%EC%8A%B5
+  
+* Python
+  - https://www.slideshare.net/YunhoMaeng/python-api-feat-autoai
   
 
 
