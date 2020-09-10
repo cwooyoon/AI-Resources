@@ -77,6 +77,7 @@ Resources for ML & DL
 * 한국복지패널: https://www.koweps.re.kr:442/data/survey/list.do
   - 분석: https://blog.itpaper.co.kr/python-%ED%95%9C%EA%B5%AD%EB%B3%B5%EC%A7%80%ED%8C%A8%EB%84%90/
 * Kaggle 타이타닉 데이터: https://www.kaggle.com/c/titanic
+  - https://jfun.tistory.com/136
   - 분석: https://cyc1am3n.github.io/2018/10/09/my-first-kaggle-competition_titanic.html
   - https://hmiiing.tistory.com/entry/kaggle-Titanic-data-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-1-EDA
   - https://stricky.tistory.com/82
