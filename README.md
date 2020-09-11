@@ -16,6 +16,10 @@ Resources for ML & DL
 * 데이터분석, 머신러닝, 딥러닝 튜토리얼 사이트, 문서 모음 https://my-coding-footprints.tistory.com/50
 * 인공지능, 빅데이터 관련 유용한 사이트 https://my-coding-footprints.tistory.com/18?category=827480
 
+### Book Review
+* https://corazzon.github.io/categories
+* https://teddylee777.github.io/thoughts/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%84%9C%EC%A0%81-%EC%B6%94%EC%B2%9C
+
 ### Keras
 
 * 김태영: https://tykimos.github.io/lecture/
