@@ -12,6 +12,10 @@ Resources for ML & DL
 
 ## Blog, Web pages
 
+### Resource Lists
+* 데이터분석, 머신러닝, 딥러닝 튜토리얼 사이트, 문서 모음 https://my-coding-footprints.tistory.com/50
+* 인공지능, 빅데이터 관련 유용한 사이트 https://my-coding-footprints.tistory.com/18?category=827480
+
 ### Keras
 
 * 김태영: https://tykimos.github.io/lecture/
