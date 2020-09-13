@@ -18,3 +18,11 @@ K-mooc 강좌인데  YouTube에 있습니다.
 ## 웹 강의
 
 점프 투 파이썬(위키북스):  https://wikidocs.net/book/1
+
+# Python 관련 Study Lists
+
+## Linux & Command Line Interface
+* https://datascienceschool.net/view-notebook/26ca8377076541b2b514cd5ed97c554d/
+* PDF file: http://www.linuxzasve.com/preuzimanje/TLCL-09.12.pdf
+
+
