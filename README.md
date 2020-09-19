@@ -68,6 +68,8 @@ Resources for ML & DL
   - Python lib. 모든 것 정리됨
   - Look at Python Tech.
   - python3 -> numpy -> (scipy) -> pandas -> matplotlib -> seaborn -> mr -> ai 순서 공부
+* Numpy
+  - http://taewan.kim/post/numpy_cheat_sheet/
 * Matplotlib
   - https://matplotlib.org/
 * Seaborn
