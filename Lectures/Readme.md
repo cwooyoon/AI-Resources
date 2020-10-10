@@ -1,4 +1,21 @@
-# 꼭 들어야 하는 딥러닝 강의 4선
+# AI Lectures
+
+## Yann LuCun 2020 Spr NYU DL
+```
+DS-GA 1008 · SPRING 2020 · NYU CENTER FOR DATA SCIENCE
+
+INSTRUCTORS	Yann LeCun & Alfredo Canziani
+LECTURES	Mondays 16:55 – 18:35, GCASL C95
+PRACTICA	Tuesdays 19:10 – 20:00, GCASL C95
+PIAZZA	Access code: DLSP20
+MATERIAL	Google Drive, Notebooks
+```
+* https://atcold.github.io/pytorch-Deep-Learning/
+* https://atcold.github.io/pytorch-Deep-Learning/ko/
+
+
+
+## 꼭 들어야 하는 딥러닝 강의 4선
 http://www.datamarket.kr/xe/board_fpbt85/55766
 
 1. 모두의 딥러닝(김성훈 교수님)
