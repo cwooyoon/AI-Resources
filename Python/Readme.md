@@ -25,4 +25,7 @@ K-mooc 강좌인데  YouTube에 있습니다.
 * https://datascienceschool.net/view-notebook/26ca8377076541b2b514cd5ed97c554d/
 * PDF file: http://www.linuxzasve.com/preuzimanje/TLCL-09.12.pdf
 
+# YouTube
 
+* 파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자가 될 수 있어요 [나도코딩]
+  - https://www.youtube.com/watch?v=kWiCuklohdY
