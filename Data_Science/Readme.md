@@ -4,3 +4,5 @@
 * https://www.youtube.com/watch?v=r-uOLxNrNk8
 * https://www.youtube.com/watch?v=LHBE6Q9XlzI
 
+## Numpy
+* https://github.com/KeithGalli/NumPy
