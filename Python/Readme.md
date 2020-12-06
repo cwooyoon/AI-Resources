@@ -4,6 +4,12 @@
 * 혼자공부하는 파이썬
   - https://hongong.hanbit.co.kr/%ed%8c%8c%ec%9d%b4%ec%8d%ac/
   
+
+## 웹 강의
+* 점프 투 파이썬(위키북스):  https://wikidocs.net/book/1
+* 파이썬 계단밟기: https://wikidocs.net/book/2070
+
+
 ## 동영상 강의
 
 https://programmers.co.kr/learn/courses/2
@@ -18,10 +24,6 @@ K-mooc 강좌인데  YouTube에 있습니다.
 1장 ~ 4장까지 기본적인 내용을 보시고,
 우리는 파이참 개발 환경을 사용할 예정이어서 개발 환경 부분은 스킵하시면 됩니다.
 11장 ~37장까지 보시면 됩니다.
-
-## 웹 강의
-
-점프 투 파이썬(위키북스):  https://wikidocs.net/book/1
 
 # Python 관련 Study Lists
 
