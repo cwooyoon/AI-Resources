@@ -1,5 +1,9 @@
 # Python
 
+## 파이썬 책
+* 혼자공부하는 파이썬
+  - https://hongong.hanbit.co.kr/%ed%8c%8c%ec%9d%b4%ec%8d%ac/
+  
 ## 동영상 강의
 
 https://programmers.co.kr/learn/courses/2
