@@ -8,6 +8,7 @@
 ## 웹 강의
 * 점프 투 파이썬(위키북스):  https://wikidocs.net/book/1
 * 파이썬 계단밟기: https://wikidocs.net/book/2070
+* 파이썬을 배우는 최고의 방법: https://nolboo.kim/blog/2014/08/10/the-best-way-to-learn-python/
 
 
 ## 동영상 강의
