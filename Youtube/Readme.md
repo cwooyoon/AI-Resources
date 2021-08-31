@@ -3,7 +3,8 @@
 ## CONCISE Educational Videos
 * https://www.youtube.com/c/LeoDogan/videos
 * Hands on DL with TF: https://www.youtube.com/watch?v=1KzJbIFnVTE&list=PLWKotBjTDoLhcczRktdYukFDU3BwXRNaN
-* 
+* https://github.com/isikdogan/deep_learning_tutorials
+* Deep Learning Crash Course: https://www.youtube.com/watch?v=nmnaO6esC7c&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07&t=0s
 
 ## 길벗IT전문서
 * https://www.youtube.com/channel/UCx-s23lR2aYRK-pVTWioiag/playlists
